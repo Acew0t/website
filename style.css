@@ -1,0 +1,78 @@
+h1 {
+  color: blue
+}
+
+h2 {
+  color: white
+}
+
+body {
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  font-size: 18px;
+  background-image: url(https://i.ytimg.com/vi/GSZ3ZxE5WqE/maxresdefault.jpg);
+}
+
+.website {
+  margin-left: 30px;
+  margin-right: 30px; 
+}
+
+.banner {
+  margin-top: 50px;
+  height: 200px;
+  background-image: url(THUGREX.jpg)
+}
+
+#toc {
+  color: darkblue
+}
+
+.thing {
+  
+  background-color: rgba(110, 242, 232, 0.71);
+  padding: 20px;
+  border: 5px solid darkblue;
+  border-radius: 5px;
+  margin: 10px;
+
+}
+
+
+.sport {
+
+  background-color: rgba(110, 242, 232, 0.71);
+  padding: 20px;
+  border: 5px solid darkblue;
+  border-radius: 5px;
+  margin: 10px;
+  height: 200px;
+  overflow-y: scroll;
+}
+
+.numz {
+
+  background-color: rgba(110, 242, 232, 0.71);
+  padding: 20px;
+  border: 5px solid darkblue;
+  border-radius: 5px;
+  margin: 10px;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+
+#jacksfilms {
+  color: darkred;
+}
+
+#math {
+  color: darkred;
+}
+
+#hundred {
+  color: darkred;
+}
+
+#fifty {
+  color: darkgreen;
+}
