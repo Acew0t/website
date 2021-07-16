@@ -1,2 +1,2 @@
 # Website
-THUGREX's Personal Website!
+Personal Website!
